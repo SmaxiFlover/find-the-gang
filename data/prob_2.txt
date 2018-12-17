@@ -1,0 +1,11 @@
+﻿eventid	country	region	provstate	city	crit1	crit2	crit3	doubtterr	alternative	multiple	success	suicide	attacktype1	targtype1	targsubtype1	corp1	target1	natlty1	gname	guncertain1	individual	nperps	nperpcap	claimed	claimmode	weaptype1	weapsubtype1	nwound	property	propextent	propvalue	ishostkid	nhostkid	nhostkidus	nhours	ndays	divert	ransom	hostkidoutcome	nreleased
+201701090031	95	10	Saladin	Tikrit	1	1	1	0		0	1	0	3	14	67	Not Applicable	Civilians	95	Unknown	0	0	-99	0	0		6	16	0	0			0								
+201702210037	4	6	Uruzgan	Shah Mansour	1	1	1	0		0	1	0	9	3	22	Afghan Police	Posts	4	Unknown	0	0	-99	0	0		13		15	-9			0								
+201703120023	1004	11	Western Bieh	Unknown	1	1	1	0		0	1	0	7	4	34	Sudan People's Liberation Army (SPLA)	Soldiers	1004	Unknown	0	0	-99	0	0		8	18	56	1	3	-99	0								
+201705050009	1004	11	Terekeka	Sudan-Safari	1	1	1	0		1	1	0	2	19	99	Unknown	Passenger Bus	1004	Unknown	0	0	-99	0	0		5	5	8	1	3	-99	0								
+201705050010	1004	11	Terekeka	Sudan-Safari	1	1	1	0		1	1	0	2	19	99	Unknown	Passenger Bus	1004	Unknown	0	0	-99	0	0		5	5	7	1	3	-99	0								
+201707010028	41	11	Nana-Grebizi	Kaga-Bandoro	1	1	1	0		0	1	0	9	14	75	Kaga-Bandoro Town	Market Town	41	Unknown	0	0	-99	0	0		13		0	0			0								
+201707020006	200	10	Damascus	Damascus	1	1	1	0		1	1	1	3	4	34	Syrian Armed Forces (SAF)	Soldiers	200	Unknown	0	0	1	0	0		6	15	12	1	3	-99	0								
+201708110018	4	6	Faryab	Tort Atai	1	1	1	0		0	1	0	3	14	76	Not Applicable	Houses	4	Unknown	0	0	-99	0	0		6	11	3	1	3	-99	0								
+201711010006	4	6	Parwan	Charikar	1	1	1	0		0	1	0	3	19	99	Unknown	Passenger Bus	4	Unknown	0	0	-99	0	0		6	29	27	1	4	-99	0								
+201712010003	95	10	Al Anbar	Rawah	1	1	1	0		0	1	0	3	14	67	Not Applicable	Civilians	95	Unknown	0	0	-99	0	0		6	17	0	1	3	-99	0								
